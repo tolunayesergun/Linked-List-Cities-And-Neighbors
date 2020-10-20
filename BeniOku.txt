@@ -1,0 +1,4 @@
+Struct içindeki şehirleri görüntülemek için ana menüdeyken 1 tuşuna basmanız yeterli
+Şehir ekle, sil ve komşu ekle sil gibi özellikler yine ana menüde yer almakta.
+Structın son durumunu çikti txtye bastırmak için ana menüdeyken 7 tuşuna basmanız gerekli.
+Bonus istere ulaşmak için ana menüden 3 tuşuna basıp şehir ara menüsüne girmeniz gerekli.

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1577625745 source:d:\c projects\bagillisteuygulamasi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<ctype.h>
+
+1577808329 source:c:\users\tolun\onedrive\masaüstü\projects\c projects\bagillisteuygulamasi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<ctype.h>
+
